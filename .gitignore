@@ -5,6 +5,9 @@
 # Session Data files
 .RData
 
+# Jupyter Notebook stuff
+.ipynb_checkpoints/
+
 # User-specific files
 .Ruserdata
 
